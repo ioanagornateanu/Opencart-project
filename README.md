@@ -159,7 +159,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 -  we will use test environment
 - testing using new accounts and older account is necessary
--	The following test conditions could be found here: []  
+-	The following test conditions could be found here:   
 
   ### 3.3 Test cases
   

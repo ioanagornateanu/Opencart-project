@@ -47,10 +47,10 @@
       3.8 Test completion report
 
      # 1. Introduction
-The Guru99 Bank project aims to provide a net banking facility to its customers.
-This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
+     
+     OpenCart is free open source e-commerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store. This foundation appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time. OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store. With OpenCart's tools, you can help your online shop live up to its fullest potential.
 
-  ## 1.1 Project Objective
+  ## 1.1 Project objective
 
   We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
@@ -83,8 +83,8 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 | Role | Name | Tasks/Work |
 |---|---|---|
-| Senior Tester | Matei Oltean | will test: Add funds, Withdraw funds |
-| Tester | Adelina Pop | will test: Sends money |
+| Senior Tester | Ionescu Andrei | will test: Add funds, Withdraw funds |
+| Tester | Popescu Marian | will test: Sends money |
 
 #### Entry criteria:
 
@@ -116,28 +116,85 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 -	The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money
 -	we plan on running a full regression test on the current version
 
+  ### 2.3 Test design
+  
+-	All the test cases are written and reviewed 
+-	Functional test cases will be created in Zephyr Squad using Jira as Test Management tool
+-	GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
+
+### 2.4 Test implementation
+  
+-	all the test data is available and reviewed (test data= email examples, password examples, different type of currency, different types of credit cards)
+-	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+-	Cycle summary was created and test cases were added to the cycle summary 
+-	Test environment is up and running: 
+
+
+### 2.5 Test execution
+  
+-	The tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera and Brave browsers
+-	Test cases will be executed on the created Test Cycle Summary
+-	Bugs will be reported based on the failed tests
+
+
+### 2.6 Test closure
+  
+-	At least 90% of tests are passed
+-	No Critical issues have Open status
+-	Exploratory testing have been performed
+
+
+### 2.7 Test monitoring and control
+  
+-	Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
+
      # 3. Test deliverables
 
   ### 3.1 Test plan - link to test plan
 
--	The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application
+-	The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Opencart application
 -	The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
   ### 3.2 Test conditions 
 
 -  we will use test environment
 - testing using new accounts and older account is necessary
--	The following [test conditions] (https://github.com/ioanagornateanu/Proiect-practic-testare-manuala/blob/main/Tema%20de%20grup%20-%20saptamana%202%20-%20Copy.pdf) 
+-	The following test conditions could be found here: []  
 
   ### 3.3 Test cases
+  
+- The test cases with steps could be found here:
 
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 
 - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
 
-![Daily report ](https://github.com/ioanagornateanu/Proiect-practic-testare-manuala/blob/main/WhatsApp%20Image%202023-07-02%20at%2020.52.05.jpeg)
+ ### 3.5 Traceability matrix
+ 
+ - Link to traceability matrix
 
-  
+ ### 3.6 Test case results
+
+ The test cases results could be found here:
+
+ ### 3.7 Bugs report
+
+  - The bugs reported could be found here: 
+
+ ### 3.8 Test completion report
+
+  - link to test completion report (Test cases ran, how many TC are passed and how many are failed)
+
+ ### 3.9 Schedule
+
+ - we have 10 days of testing
+ - we have 30 functional and GUI tests
+ - in order to finish the regression run we would need to run an ~ of 3 tests/day
+
+
+
+
+ 
   
 
   

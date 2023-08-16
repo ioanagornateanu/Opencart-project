@@ -191,7 +191,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
  - we have 30 functional and GUI tests
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
 
-![Daily report ](https://github.com/ioanagornateanu/Proiect-practic-testare-manuala/blob/main/WhatsApp%20Image%202023-07-02%20at%2020.52.05.jpeg)
+![Daily report ](https://github.com/ioanagornateanu/Opencart-project/blob/main/logare%20demo%20demo.png)https://github.com/ioanagornateanu/Opencart-project/blob/main/logare%20demo%20demo.png)
 
 
  

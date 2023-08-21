@@ -158,7 +158,7 @@
 
 -  we will use test environment
 - testing using new accounts and older account is necessary
--	The following test conditions could be found here: [Test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/logare%20demo%20demo.png)
+-	The following test conditions could be found here: [test conditions](https://github.com/ioanagornateanu/Opencart-project/assets/139571596/ea90a850-fae0-498f-909a-b94d8cb2c342)
   
   ### 3.3 Test cases
   

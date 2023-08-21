@@ -170,7 +170,7 @@
 
  ### 3.5 Traceability matrix
  
- - Link to traceability matrix: 
+ - Link to traceability matrix: https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20matrix.xlsx
 
  ### 3.6 Test case results
 

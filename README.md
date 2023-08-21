@@ -166,7 +166,7 @@
 
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 
-- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
+- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) Cycle summary.csv
 
 
 

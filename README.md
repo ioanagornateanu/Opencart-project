@@ -58,7 +58,7 @@
 
   Application under test: https://demo.opencart.com/
 
-  Application documentation: 
+  Application documentation: https://docs.opencart.com/
 
   ### 1.2 Functionalities in scope
 

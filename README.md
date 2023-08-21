@@ -170,7 +170,7 @@
 
  ### 3.5 Traceability matrix
  
- - Link to traceability matrix
+ - Link to traceability matrix: 
 
  ### 3.6 Test case results
 

@@ -82,8 +82,8 @@
 
 | Role | Name | Tasks/Work |
 |---|---|---|
-| Senior Tester | Ionescu Andrei | will test: Add funds, Withdraw funds |
-| Tester | Popescu Marian | will test: Sends money |
+| Senior Tester | Ionescu Andrei | will test: use "Filter" as a shortcut to search, change product name |
+| Tester | Popescu Marian | will test:  |
 
 #### Entry criteria:
 
@@ -102,7 +102,7 @@
   
 #### Risks:
 
--	user data (banking related data, funds, transactions, etc) might be impacted with update tests
+-	user data (products) might be impacted with update tests
 -	stability risks (crashes, disconnects, etc)
 -	IE browser might have performance issues
 -	versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
@@ -112,7 +112,7 @@
 
   ### 2.2 Test analysis
   
--	The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money
+-	The testing process will be done based on the requirements for features:use "Filter" as a shortcut to search, change product name;
 -	we plan on running a full regression test on the current version
 
   ### 2.3 Test design
@@ -123,7 +123,7 @@
 
 ### 2.4 Test implementation
   
--	all the test data is available and reviewed (test data= email examples, password examples, different type of currency, different types of credit cards)
+-	all the test data is available and reviewed (test data= email examples, password examples)
 -	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 -	Cycle summary was created and test cases were added to the cycle summary 
 -	Test environment is up and running: https://demo.opencart.com/
@@ -151,7 +151,7 @@
 
   ### 3.1 Test plan - link to test plan
 
--	The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Opencart application
+-	The Test Plan is designed to describe all the details of testing for the following features: use "Filter" as a shortcut to search, change product name;
 -	The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
   ### 3.2 Test conditions 

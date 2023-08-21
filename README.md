@@ -65,7 +65,7 @@
   Here we should write all the functionalities that are included in the release.
 e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
 
--	The features in scope for testing: Add funds, Withdraw funds, Send money
+-	The features in scope for testing: use "Filter" as a shortcut to search, change product name;
 -	Testing types used: functional testing, GUI testing
 
 ### 1.3 Functionalities and tests out of scope

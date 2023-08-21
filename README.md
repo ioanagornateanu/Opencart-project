@@ -168,6 +168,8 @@
 
 - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc)
 
+
+
  ### 3.5 Traceability matrix
  
  - Link to traceability matrix

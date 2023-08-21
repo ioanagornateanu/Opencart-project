@@ -56,7 +56,7 @@
 
   The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application.
 
-  Application under test: 
+  Application under test: https://demo.opencart.com/
 
   Application documentation: 
 

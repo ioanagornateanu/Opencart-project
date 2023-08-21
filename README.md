@@ -178,7 +178,7 @@
 
  ### 3.7 Bugs report
 
-  - The bugs reported could be found here: 
+  - The bugs reported could be found here: https://github.com/ioanagornateanu/Opencart-project/blob/main/Bug%20op-5.pdf
 
  ### 3.8 Test completion report
 

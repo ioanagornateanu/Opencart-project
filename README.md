@@ -48,7 +48,11 @@
 
      # 1. Introduction
      
-     OpenCart is free open source e-commerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store. This foundation appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time. OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store. With OpenCart's tools, you can help your online shop live up to its fullest potential.
+     OpenCart is free open source e-commerce platform for online merchants. 
+     OpenCart provides a professional and reliable foundation from which to build a successful online store. 
+     This foundation appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time. 
+     OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store. 
+     With OpenCart's tools, you can help your online shop live up to its fullest potential.
 
   ## 1.1 Project objective
 
@@ -64,7 +68,7 @@
 
   Here we should write all the functionalities that are included in the release: 
 
--	The features in scope for testing: use "Filter" as a shortcut to search, change product name;
+-	The features in scope for testing: use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products;
 -	Testing types used: functional testing, GUI testing
 
 ### 1.3 Functionalities and tests out of scope
@@ -82,8 +86,8 @@
 
 | Role | Name | Tasks/Work |
 |---|---|---|
-| Senior Tester | Ionescu Andrei | will test: use "Filter" as a shortcut to search, change product name |
-| Tester | Popescu Marian | will test:  |
+| Senior Tester | Ionescu Andrei | will test: use "Filter" as a shortcut to search, change specification for Manufacturers |
+| Tester | Popescu Marian | will test:  change specification for products|
 
 #### Entry criteria:
 
@@ -95,7 +99,7 @@
 #### Exit criteria:
 
 -	all test cases have been executed 
--	90% of tests are passed
+-	65.4% of tests are passed
 -	no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
 -	exploratory testing performed on the features: Add funds, Withdraw funds, Send money
 -	update tests are 100% passed (update tests will not generate other new issues that impact the application)
@@ -112,7 +116,7 @@
 
   ### 2.2 Test analysis
   
--	The testing process will be done based on the requirements for features:use "Filter" as a shortcut to search, change product name;
+-	The testing process will be done based on the requirements for features: use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products;
 -	we plan on running a full regression test on the current version
 
   ### 2.3 Test design
@@ -138,7 +142,7 @@
 
 ### 2.6 Test closure
   
--	At least 90% of tests are passed
+-	At least 65.4% of tests are passed
 -	No Critical issues have Open status
 -	Exploratory testing have been performed
 
@@ -151,7 +155,7 @@
 
   ### 3.1 Test plan - link to test plan
 
--	The Test Plan is designed to describe all the details of testing for the following features: use "Filter" as a shortcut to search, change product name;
+-	The Test Plan is designed to describe all the details of testing for the following features:  use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products;
 -	The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
   ### 3.2 Test conditions 

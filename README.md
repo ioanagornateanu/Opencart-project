@@ -171,7 +171,7 @@
   
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 
-- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [Daily summary report]()
+- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [Daily test execution](https://github.com/ioanagornateanu/Opencart-project/blob/main/Daily%20Test%20Execution.png), [Weekly Report](), 
 
  ### 3.5 Traceability matrix
  

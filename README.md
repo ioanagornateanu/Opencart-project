@@ -56,6 +56,8 @@
      OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store. 
      With OpenCart's tools, you can help your online shop live up to its fullest potential.
 
+![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Explicatii%20Story.png)
+
   ## 1.1 Project objective
 
   We need to raise the trust in the quality of the project as high as possible before releasing it to customers.

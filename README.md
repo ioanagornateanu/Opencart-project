@@ -167,11 +167,11 @@
   
   ### 3.3 Test cases
   
-- The test cases with steps could be found here: https://github.com/ioanagornateanu/Opencart-project/blob/main/Test_cases.pdf
-
+- The test cases with steps could be found here: [test cases] ()
+  
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 
-- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [https://github.com/ioanagornateanu/Opencart-project/blob/main/Cycle%20Summary2.csv](https://github.com/ioanagornateanu/Opencart-project/blob/main/Daily%20Test%20Execution.png)
+- link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [Daily summary report]()
 
  ### 3.5 Traceability matrix
  

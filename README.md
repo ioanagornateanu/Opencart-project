@@ -127,7 +127,7 @@
 -	Functional test cases will be created in Zephyr Squad using Jira as Test Management tool
 -	GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
 
-### 2.4 Test implementation
+  ### 2.4 Test implementation
   
 -	all the test data is available and reviewed (test data= email examples, password examples)
 -	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
@@ -136,21 +136,21 @@
 -	Access to the testing environment is given: Username : demo | Password : demo
 
 
-### 2.5 Test execution
+  ### 2.5 Test execution
   
 -	The tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera and Brave browsers
 -	Test cases will be executed on the created Test Cycle Summary
 -	Bugs will be reported based on the failed tests
 
 
-### 2.6 Test closure
+  ### 2.6 Test closure
   
 -	At least 65.4% of tests are passed
 -	No Critical issues have Open status
 -	Exploratory testing have been performed
 
 
-### 2.7 Test monitoring and control
+  ### 2.7 Test monitoring and control
   
 -	Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
 
@@ -161,29 +161,30 @@
 -	The Test Plan is designed to describe all the details of testing for the following features:  use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products from Opencart site;
 -	The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
-  ### 3.2 Test conditions 
+   ### 3.2 Test conditions 
 
 -  we will use test environment
 - testing using new accounts and older account is necessary
 - The following test conditions could be found here: [test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20cases%20image.pdf)
   
-  ### 3.3 Test cases
+   ### 3.3 Test cases
   
 - The test cases with steps could be found here: [test cases](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20conditions.pdf)
   
- ### 3.4 Daily/Weekly/Bi-weekly test summary report
+   ### 3.4 Daily/Weekly/Bi-weekly test summary report
+  
 - The following status report was generated after all of the test cases were executed, on 17 of September 2023.
 - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [Daily test execution](https://github.com/ioanagornateanu/Opencart-project/blob/main/Daily%20Test%20Execution.png), [Weekly Report](https://github.com/ioanagornateanu/Opencart-project/blob/main/Weekly%20Report.png), [Test execution by test cycle](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Test%20Cycle.png), [Test execution by Tester](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Tester.png) .
 
- ### 3.5 Traceability matrix
+   ### 3.5 Traceability matrix
  
  - Link to traceability matrix: [Traceability Matrix Resume](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Resume.png),[Traceability Matrix Detailed Part 1](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Detailed%20Part%201.png), [Traceability Matrix Detailed Part 2](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Detailed%20Part%202.png) .
 
- ### 3.6 Test case results
+   ### 3.6 Test case results
 
  The test cases results could be found here:
 
- ### 3.7 Bugs report
+   ### 3.7 Bugs report
 
   - The bugs reported could be found here: [Bugs](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bugs.pdf)
 

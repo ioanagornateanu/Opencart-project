@@ -188,7 +188,9 @@
  ### 3.8 Test completion report
 
   - link to test completion report (Test cases ran, how many TC are passed and how many are failed): [Raport executie GUI TESTING](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20GUI%20TESTING.png), [Raport executie AD-HOC](https://github.com/ioanagornateanu/Opencart-project/blob/main/Raport%20executie%20AD-HOC.png)
-
+  - Test execution chart was generated, the final report shows that a number 9 tests have failed of a total of 26 for GUI TESTING.
+  - Test execution chart was generated, the final report shows that all tests (1/1) passed for AD-HOC TESTING.
+  - 
  ### 3.9 Schedule
 
  - we have 10 days of testing

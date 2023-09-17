@@ -170,13 +170,13 @@
   ### 3.3 Test cases
   
 - The test cases with steps could be found here: [test cases](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20conditions.pdf)
-  
+
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
   
 - The following status report was generated after all of the test cases were executed, on 17 of September 2023.
 - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [Daily test execution](https://github.com/ioanagornateanu/Opencart-project/blob/main/Daily%20Test%20Execution.png), [Weekly Report](https://github.com/ioanagornateanu/Opencart-project/blob/main/Weekly%20Report.png), [Test execution by test cycle](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Test%20Cycle.png), [Test execution by Tester](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Tester.png) .
 
-  ### 3.5 Traceability matrix
+ ### 3.5 Traceability matrix
  
  - Link to traceability matrix: [Traceability Matrix Resume](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Resume.png),[Traceability Matrix Detailed Part 1](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Detailed%20Part%201.png), [Traceability Matrix Detailed Part 2](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Detailed%20Part%202.png) .
 

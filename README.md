@@ -165,11 +165,11 @@
 
 -  we will use test environment
 - testing using new accounts and older account is necessary
-- The following test conditions could be found here: [test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20conditions.pdf)
+- The following test conditions could be found here: [test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20cases%20image.pdf)
   
   ### 3.3 Test cases
   
-- The test cases with steps could be found here: [test cases](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20cases%20image.pdf)
+- The test cases with steps could be found here: [test cases](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20conditions.pdf)
   
  ### 3.4 Daily/Weekly/Bi-weekly test summary report
 - The following status report was generated after all of the test cases were executed, on 17 of September 2023.

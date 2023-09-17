@@ -191,6 +191,7 @@
   - Test execution chart was generated, the final report shows that a number 9 tests have failed of a total of 26 for GUI TESTING.
   - Test execution chart was generated, the final report shows that all tests (1/1) passed for AD-HOC TESTING.
   - A number of 27 test cases were planned for execution and all of them were executed.
+  - A number of 9 total bugs were found, from which the priority is:  medium.
     
  ### 3.9 Schedule
 

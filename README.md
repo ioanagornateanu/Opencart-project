@@ -182,7 +182,7 @@
 
   ### 3.6 Test case results
 
- The test cases results could be found here:
+ The test cases results could be found here:[Test case results](https://github.com/ioanagornateanu/Opencart-project/blob/main/Story%20%2B%20test%20result.pdf)
 
    ### 3.7 Bugs report
 

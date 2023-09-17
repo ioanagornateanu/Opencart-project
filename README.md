@@ -167,7 +167,7 @@
   
   ### 3.3 Test cases
   
-- The test cases with steps could be found here: [test cases] (https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20cases%20image.pdf)
+- The test cases with steps could be found here: [test cases](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20cases%20image.pdf)
   
   ### 3.4 Daily/Weekly/Bi-weekly test summary report
 

@@ -199,7 +199,7 @@
  ### 3.9 Schedule
 
  - we have 10 days of testing
- - we have 30 functional and GUI tests
+ - we have 27 functional and GUI tests
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
 
 

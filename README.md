@@ -3,7 +3,7 @@
 | Date  | Description  | Author | Comments | 
 |---|---|---|---|
 | 15.08.2023 | Test Plan for version 1.0 | Ioana Gornateanu |   |
-| 17.09.2023 | Test Plan for version 1.1 | Ioana Gornateanu |   |
+| 17.09.2023 | Test Plan for version 1.1 | Ioana Gornateanu | Added more details for Test Implementation  |
 
 1. Introduction
      

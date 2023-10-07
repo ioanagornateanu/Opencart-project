@@ -111,10 +111,10 @@ The Story below was created in JIRA and describes a summary of the test cases an
 -	update tests are 100% passed (update tests will not generate other new issues that impact the application)
   
 #### Risks:
-
 Project risks:
 -	stress conditions might impact the web application
 -	stability risks (crashes, disconnects, etc)
+
 Product risks:
 -	user data (products) might be impacted with update tests
 -	IE browser might have performance issues

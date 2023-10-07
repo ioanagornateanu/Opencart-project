@@ -210,6 +210,11 @@ Product risks:
 
 # Proiect-practic-API DOCUMENTATION
 
+##Introduction:
+JSON:API is a specification for how a client should request that resources be fetched or modified, and how a server should respond to those requests.
+
+JSON:API is designed to minimize both the number of requests and the amount of data transmitted between clients and servers. This efficiency is achieved without compromising readability, flexibility, or discoverability.
+
  API Documentation: https://docs.opencart.com/en-gb/system/users/api/
  
  Tool used: Postman

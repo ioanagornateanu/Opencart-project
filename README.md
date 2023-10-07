@@ -101,8 +101,6 @@ The Story below was created in JIRA and describes a summary of the test cases an
 
 -	functional business specifications are defined
 -	roles needed for the project are allocated
--	testing environment is up and running
--	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
   
 #### Exit criteria:
 

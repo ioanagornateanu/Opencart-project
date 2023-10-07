@@ -54,8 +54,7 @@ Opencart provides a professional and reliable foundation from which to build a s
 This foundation appeals to a wide variety of users; ranging from seasoned web developers looking for a user-friendly interface to use, to shop owners just launching their business online for the first time.
 OpenCart has an extensive amount of features that gives you a strong hold over customization of your store.
 With OpenCart`s tools, you can help your online shop live up to its fullest potential.
-
-The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
+The Story below was created in JIRA and describes a summary of the test cases  , for which the final project is performed upon.
 
 ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Explicatii%20Story.png)
 

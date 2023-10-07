@@ -112,8 +112,8 @@ The Story below was created in JIRA and describes a summary of the test cases an
   
 #### Risks:
 Project risks:
--	stress conditions might impact the web application
--	stability risks (crashes, disconnects, etc)
+-    short deadline of Zephyr Squad trial
+-    unavailability of test environment
 
 Product risks:
 -	user data (products) might be impacted with update tests
@@ -121,6 +121,7 @@ Product risks:
 -	versions of IE older than 1.5923e have security vulnerabilities
 -	the web page pagination could be impacted when opened on mobile devices
 -	new browser might not be supported
+-	stability risks (crashes, disconnects, etc)
 
   ### 2.2 Test analysis
   

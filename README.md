@@ -217,7 +217,8 @@ JSON:API is designed to minimize both the number of requests and the amount of d
  API Documentation: https://docs.opencart.com/en-gb/system/users/api/
  
  Tool used: Postman
-
+ The access token is **"L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq"**.
+ 
  Exemple of request for Opencart API:
  
 - GET request gives data for: variable key, payment adress, payment method;

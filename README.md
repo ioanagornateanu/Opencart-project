@@ -218,7 +218,7 @@ JSON:API is designed to minimize both the number of requests and the amount of d
  
  Tool used: Postman
 
-This API allows you to login on https://demo.opencart.com with First Name and Last Name, to verify e-mail adress, to verify currency, obtain a variable key, delete cupon, delete customer data, obtain data for cart, cart products, cart details, product data, payment adress, payment method. 
+This API allows you to login on https://demo.opencart.com with First Name and Last Name, to verify e-mail adress, to verify currency, to obtain a variable key, to delete cupon, to delete customer data, to obtain data for cart, to obtain data for cart products, to obtain data for cart details,to obtain data for product data, to obtain data for payment adress, to obtain data for payment method. 
 
 The collection of tests used can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)
 

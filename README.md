@@ -214,7 +214,7 @@ Product risks:
  
  Tool used: Postman
 
-API tests are executed based on the checklist. The collection used can be found here: 
+API tests are executed based on the checklist. The collection used can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)
 
   
 

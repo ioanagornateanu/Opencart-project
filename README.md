@@ -112,12 +112,14 @@ The Story below was created in JIRA and describes a summary of the test cases an
   
 #### Risks:
 
--	user data (products) might be impacted with update tests
--	stability risks (crashes, disconnects, etc)
--	IE browser might have performance issues
--	versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
--	the web page pagination could be impacted when opened on mobile devices
+Project risks:
 -	stress conditions might impact the web application
+-	stability risks (crashes, disconnects, etc)
+Product risks:
+-	user data (products) might be impacted with update tests
+-	IE browser might have performance issues
+-	versions of IE older than 1.5923e have security vulnerabilities
+-	the web page pagination could be impacted when opened on mobile devices
 -	new browser might not be supported
 
   ### 2.2 Test analysis

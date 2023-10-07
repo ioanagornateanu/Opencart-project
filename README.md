@@ -168,8 +168,6 @@ Product risks:
 
   ### 3.2 Test conditions 
 
--  we will use test environment
-- testing using new accounts and older account is necessary
 - The following test conditions could be found here: [test conditions](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20condition.pdf)
   
 ### 3.3 Test cases

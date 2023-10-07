@@ -207,9 +207,11 @@ Product risks:
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
 
 
+# Proiect-practic-API DOCUMENTATION
+ API Documentation: (https://docs.opencart.com/en-gb/system/users/api/)
+ Tool used: Postman
 
- 
-  
+
 
   
 

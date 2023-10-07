@@ -1,0 +1,381 @@
+{
+	"info": {
+		"_postman_id": "cd752314-dfa3-47bd-9094-1228dce22557",
+		"name": "API PROJECT",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28998728"
+	},
+	"item": [
+		{
+			"name": "login",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"First Name\": \"Ioana\"\r\n    \"Last Name\":\"Gornateanu\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.opencart.com/index.php?route=account/edit&language=en-gb&customer_token=3c2acef9f898510a62276efaea//api-customer/login",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"opencart",
+						"com"
+					],
+					"path": [
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/edit"
+						},
+						{
+							"key": "language",
+							"value": "en-gb"
+						},
+						{
+							"key": "customer_token",
+							"value": "3c2acef9f898510a62276efaea//api-customer/login"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "email adress",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"E-Mail\": \"iioana0589@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.opencart.com/index.php?route=account/edit&language=en-gb&customer_token=3c2acef9f898510a62276efaea//api-customer/email adress",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"opencart",
+						"com"
+					],
+					"path": [
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/edit"
+						},
+						{
+							"key": "language",
+							"value": "en-gb"
+						},
+						{
+							"key": "customer_token",
+							"value": "3c2acef9f898510a62276efaea//api-customer/email adress"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "currency",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"currency\": \"USD\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.opencart.com/index.php?route=account/edit&language=en-gb&customer_token=3c2acef9f898510a62276efaea//api-customer/currency",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"opencart",
+						"com"
+					],
+					"path": [
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/edit"
+						},
+						{
+							"key": "language",
+							"value": "en-gb"
+						},
+						{
+							"key": "customer_token",
+							"value": "3c2acef9f898510a62276efaea//api-customer/currency"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "cart-add",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Product code\": \"SAM-1\"\r\n    \"Availability\":\"Order\"\r\n    \"Qty\":\"20\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.opencart.com/index.php?route=account/edit&language=en-gb&customer_token=3c2acef9f898510a62276efaea//api-customer/cart-add",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"opencart",
+						"com"
+					],
+					"path": [
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/edit"
+						},
+						{
+							"key": "language",
+							"value": "en-gb"
+						},
+						{
+							"key": "customer_token",
+							"value": "3c2acef9f898510a62276efaea//api-customer/cart-add"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "cart-products",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Product code\": \"Samsung Galaxy Tab 10.1\"\r\n    \"Model\":\"SAM1\"\r\n    \"Qty\":\"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.opencart.com/index.php?route=account/edit&language=en-gb&customer_token=3c2acef9f898510a62276efaea//api-customer/cart-products",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"opencart",
+						"com"
+					],
+					"path": [
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/edit"
+						},
+						{
+							"key": "language",
+							"value": "en-gb"
+						},
+						{
+							"key": "customer_token",
+							"value": "3c2acef9f898510a62276efaea//api-customer/cart-products"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "cart-add details",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Unit Price\": \"241.99\"\r\n    \"VAT\":\"40\"\r\n    \"tOTAL\":\"241.99\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.opencart.com/index.php?route=account/edit&language=en-gb&customer_token=3c2acef9f898510a62276efaea//api-customer/cart-add details",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"opencart",
+						"com"
+					],
+					"path": [
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/edit"
+						},
+						{
+							"key": "language",
+							"value": "en-gb"
+						},
+						{
+							"key": "customer_token",
+							"value": "3c2acef9f898510a62276efaea//api-customer/cart-add details"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "test patch",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "L3MYyzlYMRL8gBcpCm6CdrVarFUXtPORZkJKP7vgaY8M8EIZWOr3EJxq",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Product code\": \"Samsung Galaxy Tab 10.1\"\r\n    \"Model\":\"SAM1\"\r\n    \"Qty\":\"1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://demo.opencart.com/index.php?route=account/edit&language=en-gb&customer_token=3c2acef9f898510a62276efaea",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"opencart",
+						"com"
+					],
+					"path": [
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "route",
+							"value": "account/edit"
+						},
+						{
+							"key": "language",
+							"value": "en-gb"
+						},
+						{
+							"key": "customer_token",
+							"value": "3c2acef9f898510a62276efaea"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -181,7 +181,7 @@ Product risks:
 
  ### 3.5 Traceability matrix
  
- - Link to traceability matrix: [Traceability Matrix Resume](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Resume.png),[Traceability Matrix Detailed Part 1](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Detailed%20Part%201.png), [Traceability Matrix Detailed Part 2](https://github.com/ioanagornateanu/Opencart-project/blob/main/Traceability%20Matrix%20Detailed%20Part%202.png) .
+ - Link to traceability matrix: [Traceability Matrix]() .
 
   ### 3.6 Test case results
 

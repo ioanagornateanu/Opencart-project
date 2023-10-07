@@ -125,7 +125,6 @@ Product risks:
   ### 2.2 Test analysis
   
 -	The testing process will be done based on the requirements for features: use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products;
--	we plan on running a full regression test on the current version
 
   ### 2.3 Test design
   

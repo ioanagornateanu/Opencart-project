@@ -78,7 +78,7 @@ The Story below was created in JIRA and describes a summary of the test cases an
   Here we should write all the functionalities that are included in the release: 
 
 -	The features in scope for testing: use "Filter" as a shortcut to search, change specification for Manufacturers, change specification for products;
--	Testing types used: functional testing, GUI testing
+-	Testing types used: functional testing, GUI testing, API testing
 
 ### 1.3 Functionalities and tests out of scope
 
@@ -133,6 +133,7 @@ Product risks:
 -	All the test cases are written and reviewed 
 -	Functional test cases will be created in Zephyr Squad using Jira as Test Management tool
 -	GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
+-	API testing will be created using Postman as Test Management tool
 
   ### 2.4 Test implementation
   

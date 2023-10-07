@@ -218,6 +218,19 @@ JSON:API is designed to minimize both the number of requests and the amount of d
  
  Tool used: Postman
 
+ Exemple of request for Opencart API:
+ 
+- GET gives data for: variable key, payment adress, payment method;
+- POST request creates new: login, email adress, currency, cart-add, cart-products;
+- PATCH request updates existing data for: cart-add details, cart-products
+- DELETE request deletes data for: cupon, customer data;
+
+The response shows us if the API is working properly. With API tests we want to avoid manually re-testing the API.
+Tests in Postman are written in JavaScript.
+Tests are executed ONLY after the response has arrived from the API.
+
+The response status code for all the request in Opencart Api is 200 OK.
+
 This API allows you to login on https://demo.opencart.com with First Name and Last Name, to verify e-mail adress, to verify currency, to obtain a variable key, to delete cupon, to delete customer data, to obtain data for cart, to obtain data for cart products, to obtain data for cart details,to obtain data for product data, to obtain data for payment adress, to obtain data for payment method. 
 
 All requests are added to Postman collection, and it can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)

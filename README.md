@@ -94,7 +94,7 @@ The Story below was created in JIRA and describes a summary of the test cases an
 
 | Role | Name | Tasks/Work |
 |---|---|---|
-| Senior Tester | Ionescu Andrei | will test: use "Filter" as a shortcut to search, change specification for Manufacturers |
+| Senior Tester | Ioana Gornateanu | will test: use "Filter" as a shortcut to search, change specification for Manufacturers |
 | Tester | Popescu Marian | will test:  change specification for products|
 
 #### Entry criteria:

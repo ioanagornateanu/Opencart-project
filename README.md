@@ -176,7 +176,7 @@ Product risks:
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
   
-- The following status report was generated after all of the test cases were executed, on 17 of September 2023 [Summary test execution]()
+- The following status report was generated after all of the test cases were executed, on 17 of September 2023 [Summary test execution](https://github.com/ioanagornateanu/Opencart-project/blob/main/test%20Summary%20executed.png)
 - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) [Daily test execution](https://github.com/ioanagornateanu/Opencart-project/blob/main/Daily%20Test%20Execution.png), [Weekly Report](https://github.com/ioanagornateanu/Opencart-project/blob/main/Weekly%20Report.png), [Test execution by test cycle](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Test%20Cycle.png), [Test execution by Tester](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20execution%20by%20Tester.png) .
 
  ### 3.5 Traceability matrix

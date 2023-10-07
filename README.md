@@ -135,7 +135,6 @@ Product risks:
   ### 2.4 Test implementation
   
 -	all the test data is available and reviewed (test data= email examples, password examples)
--	this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 -	Cycle summary was created and test cases were added to the cycle summary 
 -	Test environment is up and running: https://demo.opencart.com/
 -	Access to the testing environment is given: Username : demo | Password : demo

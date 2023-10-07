@@ -189,7 +189,7 @@ Product risks:
 
    ### 3.7 Bugs report
 
-  - The bugs reported could be found here: [Bugs](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bugs.pdf)
+  - The bugs reported could be found here: [Bugs](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bugs.pdf](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bugs.pdf)
 
  ### 3.8 Test completion report
 

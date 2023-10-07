@@ -208,11 +208,9 @@ Product risks:
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
 
 
-# Proiect-practic-API DOCUMENTATION
+# Proiect-practic-OpenCart-API DOCUMENTATION
 
 ## Introduction:
-
-JSON:API is a specification for how a client should request that resources be fetched or modified, and how a server should respond to those requests.
 
 JSON:API is designed to minimize both the number of requests and the amount of data transmitted between clients and servers. This efficiency is achieved without compromising readability, flexibility, or discoverability.
 
@@ -220,7 +218,9 @@ JSON:API is designed to minimize both the number of requests and the amount of d
  
  Tool used: Postman
 
-API tests are executed based on the checklist. The collection used can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)
+This API allows you to login on https://demo.opencart.com with First Name and Last Name, to verify e-mail adress, to verify currency, obtain a variable key, delete cupon, delete customer data, obtain data for cart, cart products, cart details, product data, payment adress, payment method. 
+
+The collection of tests used can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)
 
   
 

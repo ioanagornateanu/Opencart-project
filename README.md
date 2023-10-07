@@ -55,6 +55,8 @@ This foundation appeals to a wide variety of users; ranging from seasoned web de
 OpenCart has an extensive amount of features that gives you a strong hold over customization of your store.
 With OpenCart`s tools, you can help your online shop live up to its fullest potential.
 
+The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
+
 ![Daily report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Explicatii%20Story.png)
 
   ## 1.1 Project objective

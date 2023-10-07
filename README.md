@@ -214,7 +214,7 @@ Product risks:
  
  Tool used: Postman
 
-
+API tests are executed based on the checklist. The collection used can be found here: 
 
   
 

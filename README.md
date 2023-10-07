@@ -225,7 +225,7 @@ JSON:API is designed to minimize both the number of requests and the amount of d
 - PATCH request updates existing data for: cart-add details, cart-products
 - DELETE request deletes data for: cupon, customer data;
 
-The response shows us if the API is working properly. The response status code for all the request in Opencart Api is 200 OK.
+The response shows us if the API is working properly. The response status code for all the request in Opencart API is 200 OK.
  
 All requests are added to Postman collection, and it can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)
 

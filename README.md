@@ -246,6 +246,8 @@ Using SQL subset below we will create our database, extract tables and we will m
 
 SQL File with Additional Reading database for Opencart Platform can be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bookstore%20Opencart_15.10.2023.sql)
 
+We extract different tables below to save data for different specifications.
+
 [Data for Delivery table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv)
 
 
@@ -264,7 +266,7 @@ SQL File with Additional Reading database for Opencart Platform can be found her
 
 [Select data from Reading Table where Shipping is available](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Shipping_Yes.csv)
 
-[Diagram](https://github.com/ioanagornateanu/Opencart-project/blob/main/Schema%20tabele.pdf)
+[Diagram table conection](https://github.com/ioanagornateanu/Opencart-project/blob/main/Schema%20tabele.pdf)
 
 
   

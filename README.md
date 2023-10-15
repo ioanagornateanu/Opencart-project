@@ -244,5 +244,8 @@ Using SQL subset below we will create our database, extract tables and we will m
 - DQL Data Query Language: helps us to retrieve information from the database.
 - DCL Data Control Language: allows us to restrict and control access to database.
 
+Tables:
+
+
 
   

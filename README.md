@@ -236,7 +236,7 @@ All requests are added to Postman collection, and it can be found here: [Postman
 
 ## Introduction:
 
-In Opencart Plaform we have a data base of Additional Reading. 
+In Opencart Plaform we have a database of Additional Reading. 
 Using SQL subset below we will create our database, extract tables and we will make conection between tables using Primary Key and Foreign Key.
 
 - DDL Data Definition Language: Helps us define what kind of data we are going to store and how we are going to model this data.

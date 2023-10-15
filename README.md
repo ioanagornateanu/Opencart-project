@@ -248,10 +248,10 @@ SQL File with Additional Reading database for Opencart Platform can be found her
 
 We extract different tables below to save data for different specifications.
 
-[Data for Delivery table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv)
+[Data for Delivery table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv) Data about DeliveryCompany, Quantity, FreeShipping.
 
 
-[Data for Deliverable table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivrable%20table.csv) 
+[Data for Deliverable table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivrable%20table.csv) Data about Titles that can be deliverable.
 
 
 [Data from Reading Table where CoverColour is Red](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_CoverColour_Red.csv)

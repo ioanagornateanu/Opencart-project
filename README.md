@@ -232,7 +232,17 @@ The response shows us if the API is working properly. The response status code f
 All requests are added to Postman collection, and it can be found here: [Postman collection](https://github.com/ioanagornateanu/Opencart-project/blob/main/API%20PROJECT.postman_collection.json)
 
   
+# Proiect-practic-OpenCart-SQL SECTION:
 
+## Introduction:
+
+In Opencart Plaform we have a data base of Additional Reading. 
+Using SQL subset below we will create our database, extract tables and we will make conection between tables using Primary Key and Foreign Key.
+
+- DDL Data Definition Language: Helps us define what kind of data we are going to store and how we are going to model this data.
+- DML Data Manipulation Language: allows us to insert, update, and delete data from database.
+- DQL Data Query Language: helps us to retrieve information from the database.
+- DCL Data Control Language: allows us to restrict and control access to database.
 
 
   

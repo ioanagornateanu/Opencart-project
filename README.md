@@ -256,7 +256,7 @@ We extract different tables below to save data for different specifications.
 
 [Data from Reading Table where CoverColour is Red](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_CoverColour_Red.csv)
 
-[Data from Reading Table where Edition date si before 1999-01-01](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
+[Data from Reading Table where EditionDate si before 1999-01-01](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
 
 [Data from Reading Table where Categories is Economics](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Economics.csv) 
 

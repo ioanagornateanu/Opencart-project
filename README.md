@@ -244,7 +244,7 @@ Using SQL subset below we will create our database, extract tables and we will m
 - DQL Data Query Language: helps us to retrieve information from the database.
 - DCL Data Control Language: allows us to restrict and control access to database.
 
-SQL File with Additional Reading database for Opencart Platform cand be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/15.10.2023%20refacut.sql)
+SQL File with Additional Reading database for Opencart Platform cand be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bookstore%20Opencart_15.10.2023.sql)
 
 Tables:
 

@@ -254,17 +254,17 @@ We extract different tables below to save data for different specifications.
 [Data for Deliverable table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivrable%20table.csv) 
 
 
-[Select data from Reading Table where CoverColour is Red](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_CoverColour_Red.csv)
+[Data from Reading Table where CoverColour is Red](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_CoverColour_Red.csv)
 
-[Select data from Reading Table where Edition date si before 1999-01-01](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
+[Data from Reading Table where Edition date si before 1999-01-01](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
 
-[Select data from Reading Table where Categories is Economics](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Economics.csv) 
+[Data from Reading Table where Categories is Economics](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Economics.csv) 
 
-[Select data from Reading Table where Numberofpages is smaller then 200](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_NumberPages_200.csv)
+[Data from Reading Table where Numberofpages is smaller then 200](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_NumberPages_200.csv)
 
-[Select data from Reading Table where The Price si smaller then 100euro](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Price_100.csv)
+[Data from Reading Table where The Price si smaller then 100euro](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Price_100.csv)
 
-[Select data from Reading Table where Shipping is available](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Shipping_Yes.csv)
+[Data from Reading Table where Shipping is available](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Shipping_Yes.csv)
 
 [Diagram table conection](https://github.com/ioanagornateanu/Opencart-project/blob/main/Schema%20tabele.pdf)
 

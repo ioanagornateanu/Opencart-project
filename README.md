@@ -254,7 +254,8 @@ SQL File with Additional Reading database for Opencart Platform cand be found he
 
 [Select data from Reading Table where CoverColour is Red](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_CoverColour_Red.csv)
 
-[Select data from Reading Table where Edition date si before]: 
+[Select data from Reading Table where Edition date si before](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
+
 [Select data from Reading Table where Categories is Economics]: 
 [Select data from Reading Table where Numberofpages is smaller then 200]: 
 [Select data from Reading Table where The Price si smaller then 100euro]: 

@@ -264,5 +264,7 @@ SQL File with Additional Reading database for Opencart Platform cand be found he
 
 [Select data from Reading Table where Shippind is available](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Shipping_Yes.csv)
 
-[Diagram]
+[Diagram](https://github.com/ioanagornateanu/Opencart-project/blob/main/Schema%20tabele.pdf)
+
+
   

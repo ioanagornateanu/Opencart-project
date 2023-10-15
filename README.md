@@ -266,7 +266,7 @@ We extract different tables below to save data for different specifications.
 
 [Data from Reading Table where Shipping is available](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Shipping_Yes.csv)
 
-[Diagram table conection](https://github.com/ioanagornateanu/Opencart-project/blob/main/Schema%20tabele.pdf)
+[Diagram table connection](https://github.com/ioanagornateanu/Opencart-project/blob/main/Schema%20tabele.pdf)
 
 
   

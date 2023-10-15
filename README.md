@@ -246,8 +246,13 @@ Using SQL subset below we will create our database, extract tables and we will m
 
 SQL File with Additional Reading database for Opencart Platform cand be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bookstore%20Opencart_15.10.2023.sql)
 
-Tables:
-
-
-
+[Data for Delivery table]: 
+[Data for Deliverable table]: 
+[Select data from Reading Table where CoverColour is Red]: 
+[Select data from Reading Table where Edition date si before]: 
+[Select data from Reading Table where Categories is Economics]: 
+[Select data from Reading Table where Numberofpages is smaller then 200]: 
+[Select data from Reading Table where The Price si smaller then 100euro]: 
+[Select data from Reading Table where Shippind is available]: 
+[Tables Diagram]: 
   

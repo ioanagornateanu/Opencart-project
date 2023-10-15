@@ -244,7 +244,7 @@ Using SQL subset below we will create our database, extract tables and we will m
 - DQL Data Query Language: helps us to retrieve information from the database.
 - DCL Data Control Language: allows us to restrict and control access to database.
 
-SQL File with Additional Reading database for Opencart Platform cand be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bookstore%20Opencart_15.10.2023.sql)
+SQL File with Additional Reading database for Opencart Platform can be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bookstore%20Opencart_15.10.2023.sql)
 
 [Data for Delivery table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv)
 
@@ -254,7 +254,7 @@ SQL File with Additional Reading database for Opencart Platform cand be found he
 
 [Select data from Reading Table where CoverColour is Red](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_CoverColour_Red.csv)
 
-[Select data from Reading Table where Edition date si before](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
+[Select data from Reading Table where Edition date si before 1999-01-01](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Data_1999.csv)
 
 [Select data from Reading Table where Categories is Economics](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Economics.csv) 
 

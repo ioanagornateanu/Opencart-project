@@ -1,0 +1,5 @@
+IDDev,DeliveryCompany,Quantity,FreeShipping
+1,FEDEX,50,1
+2,CARGUS,100,0
+3,DPD,10,1
+4,Fancurier,150,1

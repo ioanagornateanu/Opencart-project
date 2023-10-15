@@ -258,7 +258,7 @@ SQL File with Additional Reading database for Opencart Platform cand be found he
 
 [Select data from Reading Table where Categories is Economics](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_Economics.csv) 
 
-[Select data from Reading Table where Numberofpages is smaller then 200]: 
+[Select data from Reading Table where Numberofpages is smaller then 200](https://github.com/ioanagornateanu/Opencart-project/blob/main/Reading_NumberPages_200.csv)
 
 [Select data from Reading Table where The Price si smaller then 100euro]: 
 

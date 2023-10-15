@@ -246,7 +246,7 @@ Using SQL subset below we will create our database, extract tables and we will m
 
 SQL File with Additional Reading database for Opencart Platform cand be found here: [Opencart Bookstore](https://github.com/ioanagornateanu/Opencart-project/blob/main/Bookstore%20Opencart_15.10.2023.sql)
 
-[Data for Delivery table]: ![Daily Report](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv)
+![Data for Delivery table!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv)
 [Data for Deliverable table]: 
 [Select data from Reading Table where CoverColour is Red]: 
 [Select data from Reading Table where Edition date si before]: 

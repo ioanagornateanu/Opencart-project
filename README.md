@@ -249,7 +249,7 @@ SQL File with Additional Reading database for Opencart Platform cand be found he
 ![Data for Delivery table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivery%20table.csv)
 
 
-[Data for Deliverable table] (https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivrable%20table.csv) 
+[Data for Deliverable table](https://github.com/ioanagornateanu/Opencart-project/blob/main/Delivrable%20table.csv) 
 
 
 [Select data from Reading Table where CoverColour is Red]: 

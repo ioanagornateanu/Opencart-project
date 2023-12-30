@@ -187,7 +187,9 @@ Product risks:
 
   ### 3.6 Test case results
 
- The test cases results could be found here: ![Daily Report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20case%20result.pdf)
+ The test cases results could be found here: 
+ 
+ ![Daily Report!](https://github.com/ioanagornateanu/Opencart-project/blob/main/Test%20case%20result.pdf)
 
    ### 3.7 Bugs report
 
